@@ -1,0 +1,14 @@
+@media screen and (max-width: 1920px) and (min-width: 1700px) {
+  .cart {
+    position: relative;
+    left: 350px;
+  }
+  .btn-login {
+    position: relative;
+    left: 350px;
+  }
+  .content3 {
+    position: relative;
+    left: 150px;
+  }
+}

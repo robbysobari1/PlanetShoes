@@ -1,0 +1,568 @@
+.payment-page {
+  max-width: 100%;
+  height: auto;
+}
+.foto2 {
+  position: relative;
+  left: 500px;
+  top: 100px;
+  width: 1000px;
+  height: 500px;
+}
+.foto1 {
+  position: relative;
+  left: 870px;
+  bottom: 370px;
+  display: block;
+  width: 250px;
+}
+.payment-page h1 {
+  position: relative;
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  display: block;
+  margin-left: 780px;
+  bottom: 370px;
+}
+.payment-page p {
+  position: relative;
+  font-family: helvetica;
+  display: block;
+  font-size: 17px;
+  color: white;
+  margin-left: 650px;
+  bottom: 370px;
+}
+.tombolhome {
+  width: 160px;
+  position: relative;
+  background-color: #cf97fd;
+  display: block;
+  margin-left: 900px;
+  bottom: 330px;
+}
+@media screen and (max-width: 1920px) and (min-width: 1830px) {
+  .cart {
+    position: relative;
+    left: 350px;
+  }
+  .btn-login {
+    position: relative;
+    left: 350px;
+  }
+}
+
+@media screen and (max-width: 1920px) and (min-width: 1700px) {
+  .foto2 {
+    position: relative;
+    left: 500px;
+    top: 100px;
+    width: 1000px;
+    height: 500px;
+  }
+  .foto1 {
+    position: relative;
+    left: 870px;
+    bottom: 370px;
+    display: block;
+    width: 250px;
+  }
+  .payment-page h1 {
+    position: relative;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    display: block;
+    margin-left: 780px;
+    bottom: 370px;
+  }
+  .payment-page p {
+    position: relative;
+    font-family: helvetica;
+    display: block;
+    font-size: 17px;
+    color: white;
+    margin-left: 650px;
+    bottom: 370px;
+  }
+  .tombolhome {
+    width: 160px;
+    position: relative;
+    background-color: #cf97fd;
+    display: block;
+    margin-left: 900px;
+    bottom: 330px;
+  }
+}
+@media screen and (max-width: 1699px) and (min-width: 1441px) {
+  .foto2 {
+    position: relative;
+    left: 400px;
+    top: 100px;
+    width: 1000px;
+    height: 500px;
+  }
+  .foto1 {
+    position: relative;
+    left: 800px;
+    bottom: 370px;
+    display: block;
+    width: 250px;
+  }
+  .payment-page h1 {
+    position: relative;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    display: block;
+    margin-left: 710px;
+    bottom: 370px;
+  }
+  .payment-page p {
+    position: relative;
+    font-family: helvetica;
+    display: block;
+    font-size: 17px;
+    color: white;
+    margin-left: 570px;
+    bottom: 370px;
+  }
+  .tombolhome {
+    width: 160px;
+    position: relative;
+    background-color: #cf97fd;
+    display: block;
+    margin-left: 820px;
+    bottom: 330px;
+  }
+}
+@media screen and (max-width: 1440px) and (min-width: 1350px) {
+  .foto2 {
+    position: relative;
+    left: 300px;
+    top: 100px;
+    width: 1000px;
+    height: 500px;
+  }
+  .foto1 {
+    position: relative;
+    left: 700px;
+    bottom: 370px;
+    display: block;
+    width: 250px;
+  }
+  .payment-page h1 {
+    position: relative;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    display: block;
+    margin-left: 610px;
+    bottom: 370px;
+  }
+  .payment-page p {
+    position: relative;
+    font-family: helvetica;
+    display: block;
+    font-size: 17px;
+    color: white;
+    margin-left: 470px;
+    bottom: 370px;
+  }
+  .tombolhome {
+    width: 160px;
+    position: relative;
+    background-color: #cf97fd;
+    display: block;
+    margin-left: 720px;
+    bottom: 330px;
+  }
+}
+@media screen and (max-width: 1350px) and (min-width: 1110px) {
+  .foto2 {
+    position: relative;
+    left: 300px;
+    top: 100px;
+    width: 800px;
+    height: 500px;
+  }
+  .foto1 {
+    position: relative;
+    left: 600px;
+    bottom: 370px;
+    display: block;
+    width: 250px;
+  }
+  .payment-page h1 {
+    position: relative;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    display: block;
+    margin-left: 510px;
+    bottom: 370px;
+  }
+  .payment-page p {
+    position: relative;
+    font-family: helvetica;
+    display: block;
+    font-size: 17px;
+    color: white;
+    margin-left: 330px;
+    bottom: 370px;
+  }
+  .tombolhome {
+    width: 160px;
+    position: relative;
+    background-color: #cf97fd;
+    display: block;
+    margin-left: 620px;
+    bottom: 330px;
+  }
+}
+@media screen and (max-width: 1109px) and (min-width: 1000px) {
+  .foto2 {
+    position: relative;
+    left: 200px;
+    top: 100px;
+    width: 800px;
+    height: 500px;
+  }
+  .foto1 {
+    position: relative;
+    left: 500px;
+    bottom: 370px;
+    display: block;
+    width: 250px;
+  }
+  .payment-page h1 {
+    position: relative;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    display: block;
+    margin-left: 410px;
+    bottom: 370px;
+  }
+  .payment-page p {
+    position: relative;
+    font-family: helvetica;
+    display: block;
+    font-size: 17px;
+    color: white;
+    margin-left: 230px;
+    bottom: 370px;
+  }
+  .tombolhome {
+    width: 160px;
+    position: relative;
+    background-color: #cf97fd;
+    display: block;
+    margin-left: 520px;
+    bottom: 330px;
+  }
+}
+@media screen and (max-width: 999px) and (min-width: 800px) {
+  .foto2 {
+    position: relative;
+    left: 200px;
+    top: 100px;
+    width: 600px;
+    height: 400px;
+  }
+  .foto1 {
+    position: relative;
+    left: 420px;
+    bottom: 300px;
+    display: block;
+    width: 200px;
+  }
+  .payment-page h1 {
+    position: relative;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    display: block;
+    margin-left: 330px;
+    bottom: 300px;
+  }
+  .payment-page p {
+    position: relative;
+    font-family: helvetica;
+    display: block;
+    font-size: 13px;
+    color: white;
+    margin-left: 230px;
+    bottom: 300px;
+  }
+  .tombolhome {
+    width: 130px;
+    position: relative;
+    background-color: #cf97fd;
+    display: block;
+    margin-left: 450px;
+    bottom: 250px;
+  }
+}
+@media screen and (max-width: 799px) and (min-width: 700px) {
+  .foto2 {
+    position: relative;
+    left: 100px;
+    top: 100px;
+    width: 600px;
+    height: 400px;
+  }
+  .foto1 {
+    position: relative;
+    left: 320px;
+    bottom: 300px;
+    display: block;
+    width: 200px;
+  }
+  .payment-page h1 {
+    position: relative;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    display: block;
+    margin-left: 230px;
+    bottom: 300px;
+  }
+  .payment-page p {
+    position: relative;
+    font-family: helvetica;
+    display: block;
+    font-size: 13px;
+    color: white;
+    margin-left: 130px;
+    bottom: 300px;
+  }
+  .tombolhome {
+    width: 130px;
+    position: relative;
+    background-color: #cf97fd;
+    display: block;
+    margin-left: 340px;
+    bottom: 250px;
+  }
+}
+@media screen and (max-width: 699px) and (min-width: 600px) {
+  .foto2 {
+    position: relative;
+    left: 100px;
+    top: 100px;
+    width: 500px;
+    height: 350px;
+  }
+  .foto1 {
+    position: relative;
+    left: 270px;
+    bottom: 250px;
+    display: block;
+    width: 180px;
+  }
+  .payment-page h1 {
+    position: relative;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 21px;
+    color: white;
+    display: block;
+    margin-left: 180px;
+    bottom: 250px;
+  }
+  .payment-page p {
+    position: relative;
+    font-family: helvetica;
+    display: block;
+    font-size: 11px;
+    color: white;
+    margin-left: 110px;
+    bottom: 250px;
+  }
+  .tombolhome {
+    width: 130px;
+    position: relative;
+    background-color: #cf97fd;
+    display: block;
+    margin-left: 280px;
+    bottom: 220px;
+  }
+}
+@media screen and (max-width: 599px) and (min-width: 500px) {
+  .foto2 {
+    position: relative;
+    left: 50px;
+    top: 100px;
+    width: 500px;
+    height: 350px;
+  }
+  .foto1 {
+    position: relative;
+    left: 220px;
+    bottom: 250px;
+    display: block;
+    width: 180px;
+  }
+  .payment-page h1 {
+    position: relative;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 21px;
+    color: white;
+    display: block;
+    margin-left: 130px;
+    bottom: 250px;
+  }
+  .payment-page p {
+    position: relative;
+    font-family: helvetica;
+    display: block;
+    font-size: 11px;
+    color: white;
+    margin-left: 60px;
+    bottom: 250px;
+  }
+  .tombolhome {
+    width: 130px;
+    position: relative;
+    background-color: #cf97fd;
+    display: block;
+    margin-left: 230px;
+    bottom: 220px;
+  }
+}
+@media screen and (max-width: 499px) and (min-width: 400px) {
+  .foto2 {
+    position: relative;
+    top: 100px;
+    width: 500px;
+    height: 350px;
+    left: 0px;
+  }
+  .foto1 {
+    position: relative;
+    left: 200px;
+    bottom: 250px;
+    display: block;
+    width: 180px;
+  }
+  .payment-page h1 {
+    position: relative;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 21px;
+    color: white;
+    display: block;
+    margin-left: 100px;
+    bottom: 250px;
+  }
+  .payment-page p {
+    position: relative;
+    font-family: helvetica;
+    display: block;
+    font-size: 11px;
+    color: white;
+    margin-left: 30px;
+    bottom: 250px;
+  }
+  .tombolhome {
+    width: 130px;
+    position: relative;
+    background-color: #cf97fd;
+    display: block;
+    margin-left: 200px;
+    bottom: 230px;
+  }
+}
+@media screen and (max-width: 399px) and (min-width: 300px) {
+  .foto2 {
+    position: relative;
+    top: 100px;
+    width: 500px;
+    height: 400px;
+    left: 0px;
+  }
+  .foto1 {
+    position: relative;
+    left: 200px;
+    bottom: 280px;
+    display: block;
+    width: 180px;
+  }
+  .payment-page h1 {
+    position: relative;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 21px;
+    color: white;
+    margin-left: 180px;
+    bottom: 280px;
+  }
+  .payment-page p {
+    position: relative;
+    font-family: helvetica;
+    font-size: 11px;
+    color: white;
+    margin-left: 100px;
+    bottom: 280px;
+  }
+  .tombolhome {
+    width: 100px;
+    position: relative;
+    background-color: #cf97fd;
+    margin-left: 220px;
+    bottom: 280px;
+    font-size: 13px;
+  }
+}
+@media screen and (max-width: 299px) {
+  .foto2 {
+    position: relative;
+    top: 100px;
+    width: 500px;
+    height: 600px;
+    left: 0px;
+  }
+  .foto1 {
+    position: relative;
+    left: 200px;
+    bottom: 430px;
+    display: block;
+    width: 180px;
+  }
+  .payment-page h1 {
+    position: relative;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 21px;
+    color: white;
+    margin-left: 180px;
+    bottom: 400px;
+  }
+  .payment-page p {
+    position: relative;
+    font-family: helvetica;
+    font-size: 11px;
+    color: white;
+    margin-left: 120px;
+    bottom: 400px;
+  }
+  .tombolhome {
+    width: 100px;
+    position: relative;
+    background-color: #cf97fd;
+    margin-left: 220px;
+    bottom: 400px;
+    font-size: 13px;
+  }
+}

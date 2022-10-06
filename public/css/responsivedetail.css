@@ -1,0 +1,75 @@
+.content {
+  max-width: 100%;
+  height: auto;
+}
+@media screen and (max-width: 1920px) and (min-width: 1700px) {
+  .cart {
+    position: relative;
+    left: 350px;
+  }
+  .btn-login {
+    position: relative;
+    left: 350px;
+  }
+  .content3 {
+    position: relative;
+    left: 200px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .jenisharga {
+    position: relative;
+    top: 1110px;
+    right: 955px;
+  }
+  .brandtipe {
+    position: relative;
+    top: 1110px;
+    right: 955px;
+  }
+  .availableon {
+    position: relative;
+    top: 1110px;
+    right: 955px;
+  }
+  .h1size {
+    position: relative;
+    top: 870px;
+    right: 555px;
+  }
+  .num1 {
+    position: relative;
+    top: 870px;
+    right: 555px;
+  }
+  .num2 {
+    position: relative;
+    top: 801px;
+    right: 435px;
+  }
+  .num3 {
+    position: relative;
+    top: 731px;
+    right: 315px;
+  }
+  .num4 {
+    position: relative;
+    top: 750px;
+    right: 555px;
+  }
+  .num5 {
+    position: relative;
+    top: 680px;
+    right: 435px;
+  }
+  .num6 {
+    position: relative;
+    top: 610px;
+    right: 315px;
+  }
+  .addcart {
+    position: relative;
+    top: 630px;
+    right: 395px;
+  }
+}

@@ -1,0 +1,23 @@
+#bordertop {
+  border: 2px solid purple;
+  padding: 10px;
+  border-top-left-radius: 30px;
+}
+
+#borderbutton {
+  border: 2px solid red;
+  padding: 10px;
+  border-bottom-left-radius: 30px;
+}
+
+.table tr td {
+  padding: 5px !important;
+}
+
+.simplebar-content {
+  background-color: #5b3977 !important;
+}
+
+.is-invalid {
+  border-color: red;
+}

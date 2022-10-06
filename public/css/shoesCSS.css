@@ -1,0 +1,99 @@
+.tes {
+  border: 1px solid white;
+}
+
+body {
+  background-color: #000;
+  font-family: Product Sans;
+  color: #f9f6ff;
+}
+
+.kartu {
+  width: 500px;
+  height: 550px;
+}
+
+.card {
+  border-radius: 30px;
+  background-color: #f6f6f6;
+  margin-left: 20%;
+}
+
+.card img {
+  padding-top: 10%;
+}
+
+.card-title {
+  color: #000;
+}
+
+.card-text {
+  color: #000;
+}
+
+.harga {
+  margin-top: 30px;
+}
+
+.btn-detail {
+  background-color: #ff6a90;
+  font-size: 24px;
+  border-radius: 30px;
+  margin-top: 10px;
+  float: right;
+  width: 120px;
+}
+
+.btn-detail:hover {
+  color: #f9f6ff;
+  text-decoration: none;
+}
+
+.kosong {
+  font-size: 200px;
+  text-align: center;
+}
+
+/* search */
+
+.search {
+  width: 100%;
+  position: relative;
+  display: flex;
+}
+
+.searchTerm {
+  width: 100%;
+  border: 3px solid #ff6a90;
+  border-right: none;
+  padding: 5px;
+  height: 36px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  color: #9dbfaf;
+}
+
+.searchTerm:focus {
+  color: #ff6a90;
+}
+
+.searchButton {
+  width: 40px;
+  height: 36px;
+  border: 1px solid #ff6a90;
+  background: #ff6a90;
+  text-align: center;
+  color: #fff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/*Resize the wrap to see the search bar change!*/
+.wrap {
+  width: 25%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

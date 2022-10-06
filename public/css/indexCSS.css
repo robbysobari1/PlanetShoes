@@ -1,0 +1,138 @@
+body {
+  background-color: #000;
+  font-family: Product Sans;
+  color: #f9f6ff;
+}
+
+/* nav */
+
+.logo {
+  margin-top: -15%;
+  width: 75px;
+}
+
+.navlink:hover {
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff,
+    0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+}
+
+.light {
+  color: #f9f6ff;
+}
+.light2 {
+  background-color: #f9f6ff;
+}
+
+.btn-login {
+  background-color: #ff6a90;
+  font-size: 24px;
+  border-radius: 30px;
+  margin-top: 10px;
+  width: 120px;
+}
+
+@media only screen and (min-width: 1500px) {
+  .btn-login {
+    margin-left: 660%;
+  }
+}
+
+.login-link {
+  color: #000;
+}
+
+.login-link:hover {
+  color: #f9f6ff;
+  text-decoration: none;
+}
+
+.cart {
+  width: 50px;
+}
+
+@media only screen and (min-width: 1500px) {
+  .cart {
+    margin-left: 1500%;
+    margin-top: 20%;
+  }
+}
+
+/* end of nav */
+.tes {
+  border: 1px solid #fff;
+}
+
+.kotak1 {
+  width: 200px;
+  height: 200px;
+  border-radius: 30px;
+  background: #f6f6f6;
+  line-height: 200px;
+  text-align: center;
+  border: 3px solid #9460be;
+}
+
+.kotak2 {
+  width: 200px;
+  height: 200px;
+  border-radius: 30px;
+  background: #f6f6f6;
+  line-height: 200px;
+  text-align: center;
+  margin-top: 20px;
+  border: 3px solid #9460be;
+}
+
+.kotak3 {
+  width: 200px;
+  height: 420px;
+  border-radius: 30px;
+  background: #f6f6f6;
+  line-height: 200px;
+  text-align: center;
+  border: 3px solid #9460be;
+}
+
+.foto1 {
+  width: 150px;
+}
+.kotak3 .foto2 {
+  height: 380px;
+}
+
+.btn-shop {
+  background-color: #ff6a90;
+  font-size: 24px;
+  border-radius: 30px;
+  margin-top: 10px;
+  width: 144px;
+}
+
+.shop-link {
+  color: #000;
+}
+
+.shop-link:hover {
+  color: #f9f6ff;
+  text-decoration: none;
+}
+
+.kaki {
+  height: 600px;
+  z-index: 2;
+}
+
+.text2 {
+  margin-top: 60%;
+}
+
+.bola {
+  position: relative;
+  z-index: -99;
+  margin-top: -70%;
+  margin-left: 26%;
+  width: 300px;
+  height: 300px;
+  background: rgba(199, 129, 255, 0.7);
+  filter: blur(244.69px);
+}
